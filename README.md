@@ -1,78 +1,55 @@
 # PythonBioLab 🧬🐍
-*A 3Blue1Brown-inspired Python learning experience for biology and data science*
+*Learn Python through biological problems and real research data*
 
 ## The Vision
-Transform Python learning from tedious exercises into biological discovery. Every concept connects to life sciences, every exercise solves real biological problems, and every mistake becomes targeted improvement through spaced repetition.
+Make Python learning engaging and relevant by solving real biological problems. Each exercise uses authentic research scenarios and datasets to teach programming concepts in a meaningful context.
 
-## Core Philosophy: Code Like a Biologist Thinks
-- **Intuitive Building**: Start with biological intuition, then code the solution
-- **Visual Learning**: Rich plots and interactive visualizations in every notebook
-- **Generative Focus**: You write code, I guide and correct
-- **Layered Understanding**: Concepts build like biological complexity
-- **Real Problems**: No toy examples - solve actual biological mysteries
+## Learning Approach
+- **Problem-Driven**: Start with interesting biological questions that require coding to solve
+- **Real Data**: Work with actual research datasets and scenarios when possible
+- **Guided Discovery**: Learn by doing with hints and feedback from Claude Code
+- **Progressive Building**: Concepts build naturally from simple to complex
+- **Flexible Focus**: Biological problems when they enhance learning, general programming when more appropriate
 
 ## Structure Overview
 
 ```
 PythonBioLab/
-├── Core/                           # Your learning foundation
+├── assessment/                     # Initial skill assessment
 │   ├── Level_Assessment.ipynb      # Diagnostic coding challenges
-│   ├── Learning_Principles.md      # The "3Blue1Brown" methodology  
-│   ├── User_Profile.md            # Your evolving skill map
-│   └── Quick_Start_Guide.md       # Get coding in 5 minutes
-├── Daily/                          # Biology-focused coding labs
-│   ├── Week1_Cellular_Foundations/
-│   │   ├── Day1_Cell_Data.ipynb
-│   │   ├── Day2_DNA_Strings.ipynb
-│   │   └── Day3_Protein_Lists.ipynb
-│   ├── Week2_Molecular_Machines/
-│   ├── Week3_Population_Dynamics/
-│   └── Week4_Neural_Networks/
-├── Fundamentals/                   # Python through biological lens
-│   ├── Variables_as_Molecules.ipynb
-│   ├── Functions_as_Enzymes.ipynb
-│   ├── Lists_as_Chromosomes.ipynb
-│   └── Classes_as_Organisms.ipynb
-├── Modules/                        # Advanced toolkits
-│   ├── Pandas_for_Genomics/
-│   ├── NumPy_for_Biophysics/  
-│   ├── Matplotlib_for_Biology/
-│   └── Scikit_Learn_for_Evolution/
-└── Progress/                       # Sophisticated tracking
-    ├── Analytics/                  # Performance insights
-    │   ├── Daily_Performance.ipynb
-    │   └── Skill_Evolution.ipynb
-    ├── Mistakes/                   # Error pattern analysis
-    │   ├── Day1_Errors.md
-    │   └── Common_Patterns.md
-    ├── Spaced_Repetition/         # Intelligent review system
-    │   ├── Review_Queue.md
-    │   └── Mastery_Tracking.ipynb
-    └── Mastery_Map.ipynb          # Visual progress dashboard
+│   ├── Learning_Principles.md      # Educational approach  
+│   └── Quick_Start_Guide.md       # Setup instructions
+└── exercises/                      # Hands-on programming practice
+    ├── Week1_Cellular_Foundations/
+    │   ├── Day1_Cell_Data.ipynb   # Cancer drug effectiveness
+    │   ├── Day2_DNA_Strings.ipynb # DNA sequence analysis
+    │   └── Day3_Protein_Lists.ipynb # Protein data processing
+    └── Week2_Functions_Logic/      # More advanced concepts
 ```
 
-## Daily Lab Experience
-Each day presents a **biological mystery** requiring code:
+## Example Learning Journey
+- **Day 1**: "How effective is this cancer drug?" → Learn variables and basic calculations
+- **Day 2**: "What patterns exist in this DNA sequence?" → Master string manipulation  
+- **Day 3**: "How do we organize protein family data?" → Understand lists and loops
+- **Week 2**: "Can we predict enzyme function?" → Build functions and conditional logic
 
-**Example Journey:**
-- **Day 1**: "Why do some cells survive chemotherapy?" → Learn variables/data types
-- **Day 5**: "How do enzymes choose substrates?" → Master functions  
-- **Day 12**: "What drives bacterial evolution?" → Build classes and loops
-- **Day 20**: "Can we predict protein structure?" → Apply machine learning
-
-## Spaced Repetition Engine
-Your mistakes drive tomorrow's focus:
-- **Immediate**: Fix errors with guided hints
-- **1 Day**: Retry similar problems  
-- **3 Days**: Apply concept in new biological context
-- **1 Week**: Integrate with more complex scenarios
-- **1 Month**: Teach the concept by explaining code
+## Adaptive Learning
+Claude Code tracks your progress and adapts the curriculum based on:
+- Areas where you excel or struggle
+- Your interests in biological vs. general programming topics
+- Your preferred pace and learning style
+- Concepts that need reinforcement
 
 ## Getting Started
-1. Run `Level_Assessment.ipynb` to establish baseline
-2. Open your first Daily Lab notebook
-3. Code solutions to biological problems
-4. Let me review and guide improvements
-5. Watch your Mastery Map evolve
+1. **Assessment**: Run `assessment/Level_Assessment.ipynb` to establish your baseline
+2. **First Exercise**: Start with your recommended exercise based on the assessment
+3. **Learn by Doing**: Work through exercises with Claude Code's guidance
+4. **Get Feedback**: Ask Claude Code to review your work and suggest next steps
 
-*Ready to think like a computational biologist?*
+## Working with Claude Code
+- **Start a session**: "I'm ready to work on Python. What should we focus on today?"
+- **Get help**: "I'm stuck on [specific problem]. Can you give me a hint?"
+- **Review work**: "Can you check my solution and let me know what to improve?"
+- **Adjust difficulty**: "This is too easy/hard. Can we adjust the level?"
+
+*Ready to learn Python through real biological problems?*
