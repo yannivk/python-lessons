@@ -2,43 +2,46 @@
 
 ## Current Status
 - Level: **Intermediate Beginner** (strong fundamentals, progressing well)
-- Last completed: Day1_Cell_Data.ipynb (January 2025) - Excellent work!
-- Next recommended: exercises/Week1_Cellular_Foundations/Day2_DNA_Strings.ipynb
+- Last completed: Day2_DNA_Strings.ipynb (January 2025) - Excellent string manipulation work!
+- Next recommended: exercises/Week1_Cellular_Foundations/Day3_Protein_Lists.ipynb
 
 ## Strengths
-- **String manipulation**: Excellent work with DNA sequence analysis - used .count(), string concatenation, dictionary comprehension
-- **Lists and iteration**: Strong understanding of list operations, max/min functions, list comprehensions
-- **Functions**: Good grasp of function definition and basic usage
-- **Mathematical operations**: Comfortable with calculations and numpy integration
+- **String manipulation**: Excellent work with string indexing, loops, and .count() method
+- **Functions**: Strong function definition skills - good use of parameters and return values
+- **Loops and iteration**: Proper use of range() and for loops with string indexing
+- **Dictionary usage**: Smart use of .get() method with fallback values
+- **Mathematical operations**: Comfortable with calculations and percentage computations
 - **Problem-solving approach**: Methodical, logical thinking through multi-step problems
-- **Library usage**: Already familiar with numpy and pandas basics
+- **Code structure**: Clean, readable code with good variable names
 
 ## Areas for Improvement
-- **Conditional logic**: Used bitwise operators (&) instead of logical operators (and) in if statements
-- **Dictionaries**: Started strong but didn't complete all dictionary tasks (stopped after problem 1)
+- **Variable naming**: Could be more descriptive (e.g., "patient_dna" vs "patient")
+- **Output formatting**: Could reduce verbose output and focus on key results
+- **List operations**: Ready to learn list manipulation, sorting, and advanced operations
 - **Classes/OOP**: No prior experience - needs introduction to object-oriented concepts
-- **Code optimization**: Some unnecessary complexity (e.g., int() casting for already-integer values)
 - **Error handling**: Could benefit from understanding edge cases
 
 ## Completed Exercises
 - Level_Assessment.ipynb (December 2024) - Shows solid fundamentals with specific areas to reinforce
 - Day1_Cell_Data.ipynb (January 2025) - Strong work on variables, calculations, and conditional logic. Good use of string formatting.
+- Day2_DNA_Strings.ipynb (January 2025) - Excellent string manipulation, loops, and function creation. Mastered string indexing and dictionary lookups.
 
 ## Session Notes
-- Student prefers practical examples over heavy biological focus
-- Wants to strengthen basic concepts before advancing
+- Student prefers coding focus over biological interpretation
+- Wants exercises without biological questions/insights sections
 - Shows good analytical thinking and willingness to experiment
 - Ready for structured progression from current level
+- Strong preference for pure programming practice
 
 ## Learning Plan
 **Immediate focus (next 2-3 exercises):**
-1. Variables and conditional logic (fix and/or operators)
-2. Dictionary manipulation and iteration
-3. Function practice with real-world problems
+1. List operations and manipulation
+2. List methods (append, sort, index, etc.)
+3. Statistical functions with lists (max, min, sum)
 
 **Week 1 goals:**
-- Master conditional statements and logical operators
-- Build confidence with dictionaries and nested data structures
+- Master list operations and data organization
+- Build confidence with function creation and parameter passing
 - Reinforce good coding practices and naming conventions
 
 **Future topics to introduce:**
